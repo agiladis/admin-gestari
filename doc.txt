@@ -1,0 +1,6 @@
+login : http://127.0.0.1:5500/pages/examples/login.html
+signup : http://127.0.0.1:5500/pages/examples/register.html
+inventaris 
+data nasabah
+transaksi
+buat artikel
